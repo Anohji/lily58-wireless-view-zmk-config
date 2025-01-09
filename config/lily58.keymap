@@ -365,9 +365,9 @@
             display-name = "Base";
             bindings = <
 &kp ESC     &kp N1  &kp N2  &kp N3    &kp N4   &kp N5                                        &kp N6  &kp N7    &kp N8     &kp N9      &kp N0  &kp DE_GRAVE
-&kp TAB     &kp Q   &kp W   &kp E     &kp R    &kp T                                         &kp Z   &kp U     &kp I      &kp O       &kp P   &kp DE_ESZETT
-&kp LSHIFT  &kp A   &kp S   &kp D     &kp F    &kp G                                         &kp H   &kp J     &kp K      &kp L       &kp DE_U_UMLAUT   &kp RSHFT
-&kp LCTRL   &kp DE_Z   &kp X   &kp V     &kp B    &kp N   &kp C_VOLUME_DOWN    &kp C_VOLUME_UP  &kp M  &kp DE_COMMA  &kp DE_PERIOD &kp DE_O_UMLAUT &kp DE_A_UMLAUT   &kp 0
+&kp TAB     &kp Q   &kp W   &kp E     &kp R    &kp T                                         &kp Z   &kp U     &kp I      &kp O       &kp P   &kp DE_U_UMLAUT
+&kp LSHIFT  &kp A   &kp S   &kp D     &kp F    &kp G                                         &kp H   &kp J     &kp K      &kp L       &kp DE_O_UMLAUT   &kp DE_A_UMLAUT
+&kp LCTRL   &kp DE_Z &kp X  &kp C     &kp V    &kp B   &kp C_VOLUME_DOWN    &kp C_VOLUME_UP  &kp N &kp M  &kp DE_COMMA  &kp DE_PERIOD &kp DE_SZ &kp &trans  
                             &kp LGUI  &kp DEL  &mo 1   &kp SPACE            &kp RET          &mo 2   &kp BSPC  &kp RALT
             >;
 
